@@ -22,3 +22,38 @@ This approach allowed us to harvest valuable information from a diverse range of
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 This dashboard employs a custom skill extraction model built using the Transformers library and leveraging the power of BERT (Bidirectional Encoder Representations from Transformers). Our model analyzes job descriptions, meticulously identifying the most relevant skills employers are seeking. This allows the dashboard to provide you with highly accurate insights into the current skill demands across the Middle Eastern job market.
 Hugging Face Link: https://huggingface.co/GalalEwida/LLM-BERT-Model-Based-Skills-Extraction-from-jobdescription 
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Key Insights:
+Our latest analysis dives deep into the employment and financing landscape in Egypt, UAE, Saudi Arabia, Qatar, and Kuwait. Here are some of the key insights:
+ * **Employment Types:**
+ Full-Time Jobs: Dominant across all countries.
+ Freelance & Remote Work: Notably present in Saudi Arabia and UAE.
+ Contract Roles: Available in Qatar.
+ 
+ * **In-Demand Job Titles:**
+ Egypt: Software Engineers, Full Stack Developers.
+ Saudi Arabia: Communications Engineers, Data Scientists.
+ UAE: Business Analysts, Software Engineers.
+ Kuwait: Research Analysts, Business Analysts.
+ Qatar: Systems Product Managers.
+ 
+ * **Key Skill Trends:**
+ Software Development: High demand across all countries.
+ Data Science: Growing rapidly, especially in Saudi Arabia and the UAE.
+ Cybersecurity: Significant need in Saudi Arabia and UAE.
+ Cloud Computing: Emerging importance, particularly in UAE.
+
+* **Hiring Companies**
+ Egypt: PwC leads the market.
+ Saudi Arabia: Jadeer and Aramcoservices are top employers.
+ UAE: Injazat is a major player.
+ Kuwait: Intoude Foundation dominates.
+ Qatar: Jobs Via Efinancialcareers and others are notable.
+
+ * **Job Levels:**
+ Mid-Level Roles: Predominant in Saudi Arabia and UAE.
+ Balanced Distribution: Noted in Egypt across various seniority levels.
+ Junior-Level Focus: Seen in Qatar and Kuwait.
+ The report highlights the dynamic and evolving job market in the Middle East, driven by technological
+ advancements and the growing importance of data-driven decision-making.
