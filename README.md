@@ -14,6 +14,6 @@ ________________________________________________________________________________
 
 ### Data Source: Aggregating Insights from the Middle East's Job Market
 _____________________________________________________________________________________________________________________________________________________________________________________________________
-To capture a comprehensive picture of the job market across the Middle East, we leveraged the power of automation! This dashboard incorporates data meticulously scraped from leading hiring platforms like **Wuzzuf, LinkedIn, and Indeed**. Our custom **Python** script, utilizing the **Selenium** library, scoured these websites between March and June 2024, gathering over 8,000 job postings.
+To capture a comprehensive picture of the job market across the Middle East, we leveraged the power of automation! This dashboard incorporates data meticulously scraped from leading hiring platforms like **Wuzzuf, LinkedIn, and Indeed**. Our custom **Python** script, utilizing the `Selenium` library, scoured these websites between March and June 2024, gathering over 8,000 job postings.
 
 This approach allowed us to harvest valuable information from a diverse range of sources, ensuring a well-rounded perspective on job trends in Egypt, UAE, Saudi Arabia, Kuwait, and Qatar. By combining data from these prominent platforms, we're able to provide you with a richer and more insightful view of the current job landscape in the region.
