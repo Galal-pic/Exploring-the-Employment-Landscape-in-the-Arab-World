@@ -21,4 +21,4 @@ This approach allowed us to harvest valuable information from a diverse range of
 ### NLP Model: BERT
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 This dashboard employs a custom skill extraction model built using the Transformers library and leveraging the power of BERT (Bidirectional Encoder Representations from Transformers). Our model analyzes job descriptions, meticulously identifying the most relevant skills employers are seeking. This allows the dashboard to provide you with highly accurate insights into the current skill demands across the Middle Eastern job market.
-Hugging Face Link : https://huggingface.co/GalalEwida/LLM-BERT-Model-Based-Skills-Extraction-from-jobdescription 
+Hugging Face Link: https://huggingface.co/GalalEwida/LLM-BERT-Model-Based-Skills-Extraction-from-jobdescription 
