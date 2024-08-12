@@ -3,7 +3,9 @@ ________________________________________________________________________________
 This repository contains the code and resources for an interactive dashboard that allows you to explore job postings across the Middle East, focusing on **Egypt, UAE, Saudi Arabia, Kuwait, and Qatar**.
 
 
-![WhatsApp Image 2024-07-13 at 8 28 07 PM](https://github.com/user-attachments/assets/316e3d0d-2cca-4af4-94c6-19bc09b8f3c2)
+![1](https://github.com/user-attachments/assets/e6962e60-1538-4fb5-8a32-45ec8cad770f)
+![2](https://github.com/user-attachments/assets/b2b559f6-385b-40f5-8feb-06710f7f952e)
+![3](https://github.com/user-attachments/assets/257f4dcc-f291-444e-9231-2244405c3890)
 
 ### Features
 _____________________________________________________________________________________________________________________________________________________________________________________________________
