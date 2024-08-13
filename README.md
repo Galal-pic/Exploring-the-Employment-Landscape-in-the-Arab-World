@@ -1,4 +1,4 @@
-### Tech Industry Job Market Analysis in the Middle Eas
+### Tech Industry Job Market Analysis in the Middle East | 2024
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 This project provides an in-depth analysis of the tech job market across key regions in the Middle East, including **Egypt, Saudi Arabia, the United Arab Emirates, Kuwait, and Qatar**. The dashboard created in this project visualizes data related to job postings, seniority levels, job titles, and top hiring companies, offering valuable insights into current trends in the tech industry.
 
